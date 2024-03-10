@@ -1,0 +1,5 @@
+cvzone
+opencv-python
+numpy
+pyfirmata
+mediapipe
